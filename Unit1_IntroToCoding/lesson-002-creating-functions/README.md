@@ -38,4 +38,11 @@ c = x * y
 d = c - y
 ```
 These all work, however they're pretty simple. Furthermore, these are all static operations. Remember static means unchanging-- in this case x will ALWAYS equal 5, given that x is ALWAYS 5 then y is ALWAYS 3, etcetera. 
-In computer science, static values are very rare. There are of course times we will need them, but for the most part everything in coding is reliant on some sort of input from someone using the code... We call this User Input. Actually getting User Input is farily complicated and something we will get into later, but understanding the concept of User Input is important. Keep this in mind as we move over to functions.rb
+In computer science, static values are very rare. There are of course times we will need them, but for the most part everything in coding is reliant on some sort of input from someone using the code... We call this User Input. Actually getting User Input is farily complicated and something we will get into later, but understanding the concept of User Input is important. Keep this in mind as I show you the structure of a function
+```
+def functionName(inputOne, inputTwom inputThree)
+# any code you want
+return 
+```
+
+Remmeber this structure as you move over to functions.rb to finsih the lesson
