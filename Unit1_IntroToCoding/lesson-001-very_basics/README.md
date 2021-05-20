@@ -45,14 +45,14 @@ We just learned about VARIABLES, and they are just the tip of the IceBerg. The p
         <variable_name> = <value>
     ------------------------------------------------------------
     Considering this, the following would be true
-    ```
-        x = 5      
-        # the variable x is equal to 5
-        y = x + 6
-        # the variable y is equal to x, which is 5, plus 6. Thus, y is 11
-        z = "HaHa! I'm words!"
-       # the variable z is equal to "Haha! I'm words!"  
-    ```
+  
+        `x = 5`      
+        the variable x is equal to 5
+        `y = x + 6`
+        the variable y is equal to x, which is 5, plus 6. Thus, y is 11
+        `z = "HaHa! I'm words!"`
+       the variable z is equal to "Haha! I'm words!"  
+  
 
 Okay... I've used Variables, but what about other Objects? What about functions?
 Remember the language comparison from before? How coding is just like speaking another language? Well, imagine it like this...
