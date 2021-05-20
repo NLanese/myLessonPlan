@@ -26,9 +26,12 @@ done with the following syntax....
 ------------------------------------
 Pretty simple, but let's use a real example with actual values so it makes more sense
 ------------------------------------
+```
     def addTwoPlusTwo()
       return 2 + 2
     end
+  
+ ```
 ------------------------------------
 OKAY, a few things to unpack here...
 First of all, let's look at DEF and END. 
