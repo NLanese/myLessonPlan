@@ -40,13 +40,8 @@ The Computer is pretty stupid. Like, really stupid. You need to be painfully spe
         There are keywords and proper syntax (which is fancy-talk for how I structure the code in terms of what words and punctuation go where) to create and use Objects. Often times, if a computer sees a regular english word (or any language thats not computer-y) it will assume this is a variable
     3. Keywords and other Exceptions
         There are, of course, exceptions but thesre are really complicated and something you do not need to worry about yet. 
-We just learned about VARIABLES, and they are just the tip of the IceBerg. The proper syntax (please get used to this word) is as follows...
-    -------------------------------------------------------------
-    
-        <variable_name> = <value>
-        
-    ------------------------------------------------------------
-    
+We just learned about VARIABLES, and they are just the tip of the IceBerg. The proper syntax (please get used to this word) is as follows...    
+        `<variable_name> = <value>`
     Considering this, the following would be true
   
         `x = 5`      
