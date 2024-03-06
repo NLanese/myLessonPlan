@@ -42,8 +42,11 @@ The Computer is pretty stupid. Like, really stupid. You need to be painfully spe
         There are, of course, exceptions but thesre are really complicated and something you do not need to worry about yet. 
 We just learned about VARIABLES, and they are just the tip of the IceBerg. The proper syntax (please get used to this word) is as follows...
     -------------------------------------------------------------
+    
         <variable_name> = <value>
+        
     ------------------------------------------------------------
+    
     Considering this, the following would be true
   
         `x = 5`      
