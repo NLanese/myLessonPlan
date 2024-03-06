@@ -25,4 +25,4 @@ function testHelloWorld(){
         console.log(`Not quite, your method returns... \n${helloWorld()}\nand we are looking to get\nHello World`)
 }
 
-testHelloWorld
+testHelloWorld()
